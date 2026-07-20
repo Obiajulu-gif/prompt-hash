@@ -5829,14 +5829,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/build-utils@npm:13.32.2":
-  version: 13.32.2
-  resolution: "@vercel/build-utils@npm:13.32.2"
+"@vercel/build-utils@npm:13.34.0":
+  version: 13.34.0
+  resolution: "@vercel/build-utils@npm:13.34.0"
   dependencies:
     "@vercel/python-analysis": "npm:0.11.1"
     cjs-module-lexer: "npm:1.2.3"
     es-module-lexer: "npm:1.5.0"
-  checksum: 10c0/58192ecd78fed4cac3d804d7ecc2c7ccda845ecdfa0dfa20c748ab39feccac5f10ef36b8d196f312bf2c766aedf335de3d3bab63d7d083c6457ed9c449e5611f
+  checksum: 10c0/0daef8f5cdb2221697148a08e1f04e693c10dcefbb3fea21eb46e34282c4cd85d4e39970f0e6f04c27a27909c21138531facd7e38dba4dd880a65444cd4e725c
   languageName: node
   linkType: hard
 
@@ -5869,15 +5869,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/node@npm:^5.8.22":
-  version: 5.8.22
-  resolution: "@vercel/node@npm:5.8.22"
+"@vercel/node@npm:^5.8.26":
+  version: 5.8.26
+  resolution: "@vercel/node@npm:5.8.26"
   dependencies:
     "@edge-runtime/node-utils": "npm:2.3.0"
     "@edge-runtime/primitives": "npm:4.1.0"
     "@edge-runtime/vm": "npm:3.2.0"
     "@types/node": "npm:20.11.0"
-    "@vercel/build-utils": "npm:13.32.2"
+    "@vercel/build-utils": "npm:13.34.0"
     "@vercel/error-utils": "npm:2.2.0"
     "@vercel/nft": "npm:1.10.0"
     "@vercel/static-config": "npm:3.4.0"
@@ -5895,7 +5895,7 @@ __metadata:
     tsx: "npm:4.21.0"
     typescript: "npm:typescript@5.9.3"
     undici: "npm:5.28.4"
-  checksum: 10c0/ce6f953c0c222f09d4e441a314849748263c2834f52b87bfc3f121d7ccca8881885260c3b29028e21d1c538f2a1bb0c2f765b7e8ff08abde6eb40ec6922aa258
+  checksum: 10c0/4a6524ae5b4db1a0d89492a797eafd298b3b45a7898c03524e97c36b067cbf5556dfc011fb95db955532e40c405d5ad5654c3d1b7337e50d3692d69960784664
   languageName: node
   linkType: hard
 
@@ -12260,7 +12260,7 @@ __metadata:
     "@types/node": "npm:^25.6.0"
     "@types/react": "npm:^19.2.14"
     "@types/react-dom": "npm:^19.2.3"
-    "@vercel/node": "npm:^5.8.22"
+    "@vercel/node": "npm:^5.8.26"
     "@vitejs/plugin-react": "npm:^6.0.1"
     autoprefixer: "npm:^10.5.0"
     boring-avatars: "npm:^2.0.4"
